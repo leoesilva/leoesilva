@@ -26,7 +26,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia, atualmente focado em
 [![Leonardo E. Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoesilva&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Como me encontrar
-![LinkedIn](https://img.shields.io/badge/-leoesilva-0A66C2?style=social&logo=linkedin&link=linkedin.com/in/leoesilva)
+[![LinkedIn](https://img.shields.io/badge/-leoesilva-0A66C2?style=social&logo=linkedin&link=https://linkedin.com/in/leoesilva)](https://linkedin.com/in/leoesilva)
 
 ## 💡 Interesses
 - Desenvolvimento web back-end
