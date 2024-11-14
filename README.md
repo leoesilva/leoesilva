@@ -1,7 +1,10 @@
 # Olá, eu sou o Leonardo! 👋
 
 ## Sobre mim
-Sou um desenvolvedor de software apaixonado por tecnologia, atualmente focado em desenvolvimento web back-end. Moro em São Paulo, Brasil, e estou sempre em busca de novos desafios e oportunidades de aprendizado.
+Sou um apaixonado por tecnologia, atualmente focado em desenvolvimento web back-end. 
+Estou cursando o tecnólogo em Desenvolvimento de Software Plataforma na Fatec.
+Trabalho como Técnico de Help Desk Sênior em uma software house de automação comercial.
+Moro em São Paulo, Brasil, e estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
 ## 🚀 Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoSize=auto)
