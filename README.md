@@ -30,6 +30,8 @@ Moro em São Paulo, Brasil, e estou sempre em busca de novos desafios e oportuni
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-leoesilva-0A66C2?style=social&logo=linkedin&logoSize=auto&link=https://linkedin.com/in/leoesilva)](https://linkedin.com/in/leoesilva)
+[![E-mail](https://img.shields.io/badge/-contato@leonardoesilva.dev.br-D14836?style=social&logo=gmail&logoSize=auto&link=mailto:contato@leonardoesilva.dev.br)](mailto:contato@leonardoesilva.dev.br)
+
 
 ## 💡 Interesses
 - Desenvolvimento web back-end
