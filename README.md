@@ -16,7 +16,6 @@ Moro em São Paulo, Brasil, e estou sempre em busca de novos desafios e oportuni
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoSize=auto)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?logo=arduino&logoColor=white&logoSize=auto)
-![Espressif](https://img.shields.io/badge/-Espressif-E7352C?logo=espressif&logoColor=white&logoSize=auto)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?logo=visual-studio-code&logoColor=white&logoSize=auto)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoSize=auto)
 ![Pop!\_OS](https://img.shields.io/badge/-Pop!_OS-48B9C7?logo=Pop!_OS&logoColor=white&logoSize=auto)
