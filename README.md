@@ -32,7 +32,7 @@ Moro em São Paulo, SP, Brasil, e estou sempre em busca de novos desafios e opor
 [![Leonardo E. Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoesilva&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Como me encontrar
-[![E-mail](https://img.shields.io/badge/-contato@leoesilva.dev.br-D14836?style=social&logo=gmail&logoSize=auto&link=mailto:contato@leonardoesilva.dev.br)](mailto:contato@leoesilva.dev.br)
+[![E-mail](https://img.shields.io/badge/-contato@leoesilva.dev-D14836?style=social&logo=gmail&logoSize=auto&link=mailto:contato@leoesilva.dev)](mailto:contato@leoesilva.dev)
 
 
 ## 💡 Interesses
