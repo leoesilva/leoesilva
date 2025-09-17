@@ -27,6 +27,7 @@ Moro em São Paulo, SP, Brasil, e estou sempre em busca de novos desafios e opor
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoSize=auto)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 [![Leonardo E. Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoesilva&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
