@@ -9,7 +9,7 @@ Moro em São Paulo, SP, Brasil, e estou sempre em busca de novos desafios e opor
 ## 🚀 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoSize=auto)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoSize=auto)
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoSize=auto)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?logo=visual-studio-code&logoColor=white&logoSize=auto)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoSize=auto)
