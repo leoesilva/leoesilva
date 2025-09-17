@@ -18,14 +18,14 @@ Moro em São Paulo, SP, Brasil, e estou sempre em busca de novos desafios e opor
 ## 📘 Estou aprendendo atualmente
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&logoSize=auto)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoSize=auto)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoSize=auto)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoSize=auto)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoSize=auto)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoSize=auto)
 
 ## 💻 Outros
 
