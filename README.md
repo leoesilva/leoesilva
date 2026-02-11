@@ -12,7 +12,7 @@ Moro em São Paulo, SP, Brasil, e estou sempre em busca de novos desafios e opor
 ![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoSize=auto)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&logoSize=auto)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?logo=visual-studio-code&logoColor=white&logoSize=auto)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2F80ED?logo=vscodium&logoColor=white&logoSize=auto)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoSize=auto)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoSize=auto)
@@ -39,7 +39,7 @@ Moro em São Paulo, SP, Brasil, e estou sempre em busca de novos desafios e opor
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?logo=arduino&logoColor=white&logoSize=auto)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white&logoSize=auto)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&logoSize=auto)
 
 ## 📫 Como me encontrar
 ![E-mail](https://img.shields.io/badge/-contato(at)leoesilva(dot)dev-D14836?style=social&logo=gmail&logoSize=auto)
