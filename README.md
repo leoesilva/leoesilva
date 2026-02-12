@@ -12,7 +12,7 @@ Moro em São Paulo, SP, Brasil, e estou sempre em busca de novos desafios e opor
 ![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoSize=auto)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&logoSize=auto)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2F80ED?logo=vscodium&logoColor=white&logoSize=auto)
+![VSCode](https://img.shields.io/badge/-VSCode-2F80ED?logo=vscodium&logoColor=white&logoSize=auto)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoSize=auto)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoSize=auto)
