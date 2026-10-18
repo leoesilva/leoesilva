@@ -13,7 +13,8 @@ Moro em Suzano, SP, Brasil, e estou sempre em busca de novos desafios e oportuni
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoSize=auto)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&logoSize=auto)
-![VSCode](https://img.shields.io/badge/-VSCode-2F80ED?logo=vscodium&logoColor=white&logoSize=auto)
+![VSCode](https://img.shields.io/badge/-VSCode-2F80ED?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4TDExLjM1IDEybDExLjggOS40MmEuNTAyLjUwMiAwIDAwLjcxLS4yNmwyLjEtNC42YTEuMDA0IDEuMDA0IDAgMDAtLjE3LTEuMTFMMTYuNzMgMTJsNi40Mi00LjQ1YTEuMDA0IDEuMDA0IDAgMDAuMTctMS4xMWwtMi4xLTQuNmEuNTA1LjUwNSAwIDAwLS4wNy0uMTh6TTEuNjUgNi4xMWwtLjUyLjM5YS41LjUgMCAwMDAgLjhsLjUyLjM5IDMuNDkgMi42NCA1LjQ1LTQuMTdMNiAxLjg1YTEgMSAwIDAwLTEuNCAwbC0yLjk1IDQuMjZ6bTkuNDQgNi4zN2wtNS40NS00LjE3LTMuNDkgMi42NGEuNS41IDAgMDAwIC44bDMuNDkgMi42NCA1LjQ1LTQuMTd6Ii8%2BPC9zdmc%2B
+&logoColor=white&logoSize=auto)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoSize=auto)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoSize=auto)
